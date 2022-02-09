@@ -1,0 +1,89 @@
+/*
+  font-family: 'Montserrat', sans-serif; 100it/800
+  font-family: 'Open Sans', sans-serif; 400/400it/700/700it
+*/
+
+html {
+  scroll-behavior: smooth;
+  font-family: sans-serif; 
+}
+
+header {
+  background-image: url("../img/matrix.jpg");
+  color: white;
+  border: 2px solid white;
+  margin: 20px;
+  padding: 33px 45px 47px 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 800;
+}
+
+body {
+  max-width: 320px;
+  margin: auto;
+  background-color: black;
+}
+
+em {
+  color: #00fca6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 100;
+}
+
+.post-autor{
+  color: #00fca6; 
+}
+
+.post-info {
+  color:#ababab;
+}
+
+
+.card {
+  background: #00fca6;
+  font-family: 'Montserrat', sans-serif;
+  padding: 32px 45px 47px 30px;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+div {
+  margin: 20px;
+}
+
+article {
+  background-color: white; 
+  margin: 20px;
+  padding: 11px 33px 30px 30px;
+}
+
+
+.button {
+  color: white;
+  background-color: #444444;
+  padding: 4px 13px 4px 14px;
+  text-decoration: none;
+}
+
+footer {
+  border: 2px solid #00fca6;
+  color: white; 
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+figure {
+  box-shadow: black 0px 5px 15px;
+  margin: 0px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
