@@ -5,14 +5,18 @@ html {
 
 header {
   background-image: url("../img/matrix.jpg");
-  color: white;
+  color: #dddbda;
   border: 2px solid white;
   margin: 20px 20px 0;
-  padding: 58px 47px 53px 32px;
-  font-family: 'Montserrat', sans-serif;
+  padding: 29px 23px 26px 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
   font-weight: 800;
-  max-height: 200px;
-  font-size: 16px;
+  font-size: 26px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
 }
 
 body {
@@ -51,10 +55,13 @@ em {
   padding: 32px 45px 47px 30px;
   font-size: 16px;
   color: #10513a;
+  margin: 20px 20px 0;
 }
 
-h1 {
+h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 700px;
 }
 
 div {
@@ -99,5 +106,5 @@ figcaption {
 
 p {
   font-family: 'Open Sans', sans-serif;
-  font-size: 17px;
+  font-size: 16px;
 }
