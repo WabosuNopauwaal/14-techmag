@@ -88,7 +88,13 @@ footer {
   border: 2px solid #00fca6;
   color: white;
   text-align: center;
-  margin: 20px 20px 0;
+  margin: 20px;
+}
+
+footer p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 9px;
+  padding: 9px 47px;
 }
 
 img {
@@ -103,6 +109,7 @@ figure {
 
 figcaption {
   font-size: 12px;
+  padding: 10px 12px 8px 10px;
 }
 
 p {
