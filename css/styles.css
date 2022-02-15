@@ -66,6 +66,7 @@ h2 {
 
 div {
   margin: 20px;
+  padding: 5px 20px;
 }
 
 article {
@@ -79,7 +80,8 @@ article {
   background-color: #444444;
   padding: 4px 13px 4px 14px;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 10px;
+  font-weight: 800;
 }
 
 footer {
